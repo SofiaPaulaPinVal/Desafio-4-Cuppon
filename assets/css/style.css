@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #28A745;
+    display: flex;
+    justify-content: end;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    align-items: end;
+}
+
+.fw-bold fs-4 {
+    color: #28A745;
+}
